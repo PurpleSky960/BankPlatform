@@ -1,6 +1,6 @@
 # Digital Banking Platform
 
-> **Project Status:** 🚧 **Actively Under Development**
+> **Project Status:** : **Actively Under Development**
 >
 > This repository contains an ongoing backend engineering project that aims to simulate a modern digital banking platform. Development is being carried out incrementally, with features implemented module-by-module following software engineering best practices. The project roadmap below represents the planned scope and will evolve as development progresses.
 
@@ -48,7 +48,7 @@ This project is currently in active development.
 
 ---
 
-# Planned Tech Stack
+# Tech Stack
 
 ## Frontend
 
